@@ -24,9 +24,11 @@
     height: 50px;
     background-color: black;
     border-radius: 5px;
+    appearance: none;
 
 }
 .Facebook-btn{
+    appearance: none;
     height: 50px;
     width: 40pxs;
     background-color: rgb(93, 93, 235);
